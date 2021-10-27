@@ -4,7 +4,7 @@
    "port": 3306,
    "username": "root",
    "password": "0123abcdefG.",
-   "database": "library",
+   "database": "tweet",
    "synchronize": true,
    "logging": false,
    "entities": [
